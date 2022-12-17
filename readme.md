@@ -13,3 +13,5 @@ ASPLOS 2022, [INFless: A Native Serverless System for Low-Latency, High-Throughp
 SOCC 2021, [Llama: A Heterogeneous & Serverless Framework for Auto-Tuning Video Analytics Pipelines](https://web.stanford.edu/~faromero/llama.pdf)
 
 SOCC 2021, [Faa$T: A Transparent Auto-Scaling Cache for Serverless Applications](https://www.microsoft.com/en-us/research/uploads/prod/2021/06/socc2021.pdf)
+
+SOCC 2022, [Owl: Performance-Aware Scheduling for Resource-Efficient Function-as-a-Service Cloud](https://www.cse.ust.hk/~weiwa/papers/owl-socc2022.pdf)
